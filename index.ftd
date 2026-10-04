@@ -144,7 +144,7 @@ document-image: https://github.com/kkrishguptaa/fastn-theme/assets/135469703/b50
 -- end: cp.components-pallete
 
 -- cd.color-scheme:
-tagline: Adding warmth and energy to your designs with @kkrishguptaa's color scheme
+tagline: Adding warmth and energy to your designs with @ikrishg's color scheme
 
 	-- cd.color-scheme.rightbar:
 	
@@ -194,7 +194,7 @@ tagline: Adding warmth and energy to your designs with @kkrishguptaa's color sch
 	
 	The colours we use in our designs can have a significant impact on the mood and
 	feelings they inspire. The perfect colour palette may take your design to the
-	next level, whether you're creating a website, app, or anything else. @kkrishguptaa's colour scheme is ideal for designs that aim to portray strength,
+	next level, whether you're creating a website, app, or anything else. @ikrishg's colour scheme is ideal for designs that aim to portray strength,
 	warmth, and growth.
 	
 	-- cb.code: Figma tokens json
@@ -229,7 +229,7 @@ To add color scheme to your [fastn](https://fastn.com/)
 [doc-site](https://fastn-community.github.io/doc-site/cs/). Edit your `FASTN.ftd` file and add
 color scheme dependency into it.
 
-In the below example, we are using @kkrishguptaa's color scheme.
+In the below example, we are using @ikrishg's color scheme.
 
 Add color scheme dependency into your `FASTN.ftd` file as shown in below
 example:
@@ -332,7 +332,7 @@ example:
 	
 	-- cd.markdown:
 	
-	Enjoy the look and feel of your website using @kkrishguptaa's colour scheme.
+	Enjoy the look and feel of your website using @ikrishg's colour scheme.
 	
 -- end: cd.how-to-use-cs
 
